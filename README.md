@@ -1,6 +1,6 @@
 # Akshitha Peetla
 
-🎓 Computer Science student at GRIET (3rd year)  
+🎓 Computer Science student at GRIET (4th year)  
 💻 Keen to learn,explore technologies, and improve my skills every day.
 
 ## Skills
