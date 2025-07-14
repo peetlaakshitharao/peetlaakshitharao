@@ -1,41 +1,15 @@
-## Hi there 👋, I'm Akshitha! 👋
-🌱 About Me:
+# Akshitha Peetla
 
-🎓 BTech CSE student at GRIET (3rd Year)
+🎓 Computer Science student at GRIET (3rd year)  
+💻 Keen to learn,explore technologies, and improve my skills every day.
 
-📚 Learning Java and Data Structures & Algorithms
+## Skills
 
-💡 Currently building Skill Exchange and Community Support Hub
+- **Languages:** Java, JavaScript, HTML/CSS
+- **Core:** Data Structures & Algorithms, OOP, DBMS, CN , OS
+- **Tools:** Git, GitHub, VS Code
 
-🖥️ Exploring Operating Systems, DBMS, and Computer Networks
+## Connect
 
-🛠️ Tech Stack:
-
-Programming Languages: Java
-
-Concepts: DSA, OOP, OS, DBMS, CN
-
-Tools: Git, GitHub
-
-🌟 Goals:
-
-Improve coding skills and problem-solving ability
-
-Build a strong project portfolio
-
-Contribute to open source
-
-Prepare for coding interviews
-
-🔗 Connect with Me:
-
-LinkedIn https://www.linkedin.com/in/peetlaakshitha/
-Email peetlaakshitha@gmail.com
-
-💬 Fun Fact:
-I believe in learning by doing! Every day is a step closer to my goals.
-"Stay curious and keep coding!"
-
-Feel free to explore my repositories and follow my learning journey! ✨
-
-
+[LinkedIn](https://www.linkedin.com/in/peetlaakshitha/)  
+peetlaakshitha@gmail.com
